@@ -1,0 +1,85 @@
+/* #id .class */
+#fundo {
+	position: absolute;
+	left: 342px;
+	top: 157px;
+	width:683px;
+	height:605px;
+	background-color:white;
+	z-index: -1;
+}
+
+#menu {
+	position:absolute;
+	top:144px;
+	left:333px;
+	z-index: 2;
+}
+#but1 {
+	position: absolute;
+	z-index: 2;
+
+}
+
+#but2 {
+	position: absolute;
+	left: 140px;
+	z-index: 2;
+
+}
+#but3 {
+	position: absolute;
+	left: 280px;
+	z-index: 2;
+
+}
+#but4{
+	position: absolute;
+	left: 420px;
+	z-index: 2;
+
+}
+
+#but5 {
+	position: absolute;
+	left: 560px;
+	z-index: 2;
+
+}
+
+#logo {
+	position: absolute;
+	top: -10px;
+	left: 478px;
+	width: 400px;
+	height: 200px;
+	z-index: 0;
+	
+}
+#text1 {
+	position:absolute;
+	top: 45px;
+	left: 48px;
+}
+
+#text2 {
+	position: absolute;
+	top: 85px;
+	left: 21px;
+	width: 656px;
+}
+#text3 {
+	position:absolute;
+	top: 320px;
+	left: 48px;
+}
+#text4{
+	position: absolute;
+	left: 21px;
+	top: 360px;
+	width: 656px;
+	z-index: 5;
+}
+body {
+	background-color: #ab5f14;
+}
